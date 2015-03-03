@@ -1,0 +1,1592 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Genesis Extender Plugin 1.5\n"
+"POT-Creation-Date: 2014-09-04 16:49-0500\n"
+"PO-Revision-Date: 2014-09-04 16:49-0500\n"
+"Last-Translator: \n"
+"Language-Team: The Cobalt Apps Team <info@cobaltapps.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: lib/init.php:51
+#, php-format
+msgid ""
+"<strong>Genesis Extender & Genesis Essentials Are Currently Active!</strong> "
+"These two Cobalt Apps products are not to be used together so deactivate <a "
+"href=\"%s\">Genesis Extender</a> or <a href=\"%s\">Genesis Essentials</a>."
+msgstr ""
+
+#: lib/admin/build-menu.php:28
+msgid "Extender Settings"
+msgstr ""
+
+#: lib/admin/build-menu.php:35
+msgid "Extender Custom"
+msgstr ""
+
+#: lib/admin/build-menu.php:56 lib/admin/boxes/custom-conditionals.php:43
+#: lib/admin/boxes/custom-conditionals.php:57
+#: lib/admin/boxes/custom-hook-boxes.php:29
+#: lib/admin/boxes/custom-hook-boxes.php:46
+#: lib/admin/boxes/custom-labels.php:42 lib/admin/boxes/custom-labels.php:56
+#: lib/admin/boxes/custom-widget-areas.php:29
+#: lib/admin/boxes/custom-widget-areas.php:47
+msgid "Name"
+msgstr ""
+
+#: lib/admin/build-menu.php:57 lib/admin/boxes/custom-templates.php:42
+#: lib/admin/boxes/custom-templates.php:62
+msgid "File Name"
+msgstr ""
+
+#: lib/admin/build-menu.php:58 lib/admin/boxes/custom-templates.php:42
+#: lib/admin/boxes/custom-templates.php:62
+msgid "Template Name"
+msgstr ""
+
+#: lib/admin/build-menu.php:59
+msgid "Template Type"
+msgstr ""
+
+#: lib/admin/build-menu.php:60 lib/admin/boxes/custom-labels.php:56
+msgid "Automatically create a Custom Conditional for this Label"
+msgstr ""
+
+#: lib/admin/build-menu.php:61 lib/admin/boxes/custom-conditionals.php:44
+#: lib/admin/boxes/custom-conditionals.php:58
+msgid "Tag"
+msgstr ""
+
+#: lib/admin/build-menu.php:62 lib/admin/boxes/custom-hook-boxes.php:32
+#: lib/admin/boxes/custom-hook-boxes.php:49
+#: lib/admin/boxes/custom-templates.php:48
+#: lib/admin/boxes/custom-templates.php:65
+msgid "[do_shortcode]"
+msgstr ""
+
+#: lib/admin/build-menu.php:63 lib/admin/boxes/custom-conditionals.php:45
+#: lib/admin/boxes/custom-conditionals.php:59
+#: lib/admin/boxes/custom-hook-boxes.php:32
+#: lib/admin/boxes/custom-hook-boxes.php:49
+#: lib/admin/boxes/custom-labels.php:45 lib/admin/boxes/custom-labels.php:57
+#: lib/admin/boxes/custom-templates.php:48
+#: lib/admin/boxes/custom-templates.php:65
+#: lib/admin/boxes/custom-widget-areas.php:32
+#: lib/admin/boxes/custom-widget-areas.php:50
+msgid "Delete"
+msgstr ""
+
+#: lib/admin/build-menu.php:64
+msgid "Hook"
+msgstr ""
+
+#: lib/admin/build-menu.php:65 lib/admin/boxes/custom-hook-boxes.php:29
+#: lib/admin/boxes/custom-hook-boxes.php:46
+#: lib/admin/boxes/custom-widget-areas.php:29
+#: lib/admin/boxes/custom-widget-areas.php:47
+msgid "Priority"
+msgstr ""
+
+#: lib/admin/build-menu.php:66 lib/admin/boxes/custom-hook-boxes.php:29
+#: lib/admin/boxes/custom-hook-boxes.php:46
+#: lib/admin/boxes/custom-widget-areas.php:29
+#: lib/admin/boxes/custom-widget-areas.php:47
+msgid "Hooked"
+msgstr ""
+
+#: lib/admin/build-menu.php:67 lib/admin/boxes/custom-hook-boxes.php:29
+#: lib/admin/boxes/custom-hook-boxes.php:46
+#: lib/admin/boxes/custom-widget-areas.php:29
+#: lib/admin/boxes/custom-widget-areas.php:47
+msgid "Shortcode"
+msgstr ""
+
+#: lib/admin/build-menu.php:68 lib/admin/boxes/custom-hook-boxes.php:29
+#: lib/admin/boxes/custom-hook-boxes.php:46
+#: lib/admin/boxes/custom-widget-areas.php:29
+#: lib/admin/boxes/custom-widget-areas.php:47
+msgid "Both"
+msgstr ""
+
+#: lib/admin/build-menu.php:69 lib/admin/boxes/custom-hook-boxes.php:29
+#: lib/admin/boxes/custom-hook-boxes.php:46
+msgid "CSS"
+msgstr ""
+
+#: lib/admin/build-menu.php:70 lib/admin/boxes/custom-hook-boxes.php:29
+#: lib/admin/boxes/custom-hook-boxes.php:46
+#: lib/admin/boxes/custom-widget-areas.php:29
+#: lib/admin/boxes/custom-widget-areas.php:47
+msgid "Deactivate"
+msgstr ""
+
+#: lib/admin/build-menu.php:71 lib/admin/boxes/custom-templates.php:42
+#: lib/admin/boxes/custom-templates.php:62
+msgid "Page Template"
+msgstr ""
+
+#: lib/admin/build-menu.php:72 lib/admin/boxes/custom-templates.php:42
+#: lib/admin/boxes/custom-templates.php:62
+msgid "WordPress Template"
+msgstr ""
+
+#: lib/admin/build-menu.php:73
+msgid "Conditionals"
+msgstr ""
+
+#: lib/admin/build-menu.php:74 lib/admin/boxes/custom-widget-areas.php:32
+#: lib/admin/boxes/custom-widget-areas.php:50
+msgid "Class"
+msgstr ""
+
+#: lib/admin/build-menu.php:75 lib/admin/boxes/custom-widget-areas.php:35
+#: lib/admin/boxes/custom-widget-areas.php:53
+msgid "Widget Area Description:"
+msgstr ""
+
+#: lib/admin/css-builder-popup.php:22
+msgid "Custom CSS Editor"
+msgstr ""
+
+#: lib/admin/css-builder-popup.php:22
+msgid "[Pop-out &raquo;]"
+msgstr ""
+
+#: lib/admin/css-builder-popup.php:22
+msgid "[&laquo; Pop-in]"
+msgstr ""
+
+#: lib/admin/css-builder-popup.php:22
+msgid "[Show/Hide Sidebar]"
+msgstr ""
+
+#: lib/admin/css-builder-popup.php:31
+#: lib/admin/genesis-extender-custom-options.php:85
+#: lib/admin/genesis-extender-settings.php:52
+#: lib/update/genesis-extender-edd-updater.php:79
+msgid "Save Changes"
+msgstr ""
+
+#: lib/admin/genesis-extender-custom-options.php:64
+msgid "Extender - Custom Options"
+msgstr ""
+
+#: lib/admin/genesis-extender-custom-options.php:67
+msgid "CSS Builder"
+msgstr ""
+
+#: lib/admin/genesis-extender-custom-options.php:71
+msgid "PHP Builder"
+msgstr ""
+
+#: lib/admin/genesis-extender-custom-options.php:112
+msgid "Custom Options Reset"
+msgstr ""
+
+#: lib/admin/genesis-extender-custom-options.php:118
+msgid "Reset Custom Options"
+msgstr ""
+
+#: lib/admin/genesis-extender-custom-options.php:118
+msgid "Are you sure your want to reset your Genesis Extender Custom Options?"
+msgstr ""
+
+#: lib/admin/genesis-extender-settings.php:42
+msgid "Extender - Settings"
+msgstr ""
+
+#: lib/admin/genesis-extender-settings.php:75
+msgid "Plugin Settings Reset"
+msgstr ""
+
+#: lib/admin/genesis-extender-settings.php:81
+msgid "Reset Plugin Settings"
+msgstr ""
+
+#: lib/admin/genesis-extender-settings.php:81
+msgid "Are you sure your want to reset your Genesis Extender Plugin Settings?"
+msgstr ""
+
+#: lib/admin/boxes/custom-conditionals.php:12
+#: lib/admin/boxes/settings-import-export.php:52
+#: lib/admin/boxes/settings-import-export.php:99
+msgid "Custom Conditionals"
+msgstr ""
+
+#: lib/admin/boxes/custom-conditionals.php:14
+#: lib/admin/boxes/custom-hook-boxes.php:14
+#: lib/admin/boxes/custom-labels.php:14
+#: lib/admin/boxes/custom-templates.php:14
+#: lib/admin/boxes/custom-widget-areas.php:14
+msgid "Add"
+msgstr ""
+
+#: lib/admin/boxes/custom-conditionals.php:22
+msgid "Custom Conditional successfully added."
+msgstr ""
+
+#: lib/admin/boxes/custom-conditionals.php:26
+msgid "Custom Conditional successfully deleted."
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:25
+msgid "Select/Insert [&raquo;] Elements to be styled:"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:26
+#: lib/admin/boxes/custom-css-builder.php:25
+msgid "General Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:33
+msgid "Click an element #label to reveal list of Elements."
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:36
+msgid "Body Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:44
+msgid "Inner Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:52
+msgid "Header Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:60
+msgid "Header Menu Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:68
+#: lib/admin/boxes/custom-css-builder.php:30
+msgid "Nav Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:76
+#: lib/admin/boxes/custom-css-builder.php:35
+msgid "Subnav Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:84
+msgid "Content Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:92
+msgid "Breadcrumb Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:100
+msgid "Taxonomy Description Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:108
+msgid "Author Description Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:116
+msgid "Author Box Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:124
+msgid "Comments Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:132
+msgid "Respond Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:140
+msgid "Sidebar Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:148
+msgid "Sidebar Alt Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:156
+msgid "Footer Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:164
+msgid "EZ Home Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:172
+msgid "Custom Widget Area Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:180
+msgid "Featured Post Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:188
+msgid "Featured Page Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:200
+#: lib/admin/boxes/custom-css-builder.php:61
+msgid "No-Repeat Image (Left)"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:201
+#: lib/admin/boxes/custom-css-builder.php:62
+msgid "No-Repeat Image (Center)"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:202
+#: lib/admin/boxes/custom-css-builder.php:63
+msgid "No-Repeat Image (Right)"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:203
+#: lib/admin/boxes/custom-css-builder.php:64
+msgid "No-Repeat Image (Left Fixed)"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:204
+#: lib/admin/boxes/custom-css-builder.php:65
+msgid "No-Repeat Image (Center Fixed)"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:205
+#: lib/admin/boxes/custom-css-builder.php:66
+msgid "No-Repeat Image (Right Fixed)"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:206
+#: lib/admin/boxes/custom-css-builder.php:67
+msgid "Horizontal-Repeat Image (Left)"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:207
+#: lib/admin/boxes/custom-css-builder.php:68
+msgid "Horizontal-Repeat Image (Center)"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:208
+#: lib/admin/boxes/custom-css-builder.php:69
+msgid "Horizontal-Repeat Image (Right)"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:209
+#: lib/admin/boxes/custom-css-builder.php:70
+msgid "Horizontal-Repeat Image (Left Fixed)"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:210
+#: lib/admin/boxes/custom-css-builder.php:71
+msgid "Horizontal-Repeat Image (Center Fixed)"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:211
+#: lib/admin/boxes/custom-css-builder.php:72
+msgid "Horizontal-Repeat Image (Right Fixed)"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:212
+#: lib/admin/boxes/custom-css-builder.php:73
+msgid "Vertical-Repeat Image (Left)"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:213
+#: lib/admin/boxes/custom-css-builder.php:74
+msgid "Vertical-Repeat Image (Center)"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:214
+#: lib/admin/boxes/custom-css-builder.php:75
+msgid "Vertical-Repeat Image (Right)"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:215
+#: lib/admin/boxes/custom-css-builder.php:76
+msgid "Vertical-Repeat Image (Left Fixed)"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:216
+#: lib/admin/boxes/custom-css-builder.php:77
+msgid "Vertical-Repeat Image (Center Fixed)"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:217
+#: lib/admin/boxes/custom-css-builder.php:78
+msgid "Vertical-Repeat Image (Right Fixed)"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:218
+#: lib/admin/boxes/custom-css-builder.php:79
+msgid "Horizontal & Vertical-Repeat Image"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:219
+#: lib/admin/boxes/custom-css-builder.php:80
+msgid "Horizontal & Vertical-Repeat Image (Fixed)"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:220
+#: lib/admin/boxes/custom-css-builder-popup.php:239
+#: lib/admin/boxes/custom-css-builder.php:81
+#: lib/admin/boxes/custom-css-builder.php:97
+msgid "Type"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:221
+#: lib/admin/boxes/custom-css-builder-popup.php:228
+#: lib/admin/boxes/custom-css-builder-popup.php:253
+#: lib/admin/boxes/custom-css-builder-popup.php:422
+#: lib/admin/boxes/custom-css-builder-popup.php:432
+#: lib/admin/boxes/custom-css-builder.php:82
+#: lib/admin/boxes/custom-css-builder.php:86
+#: lib/admin/boxes/custom-css-builder.php:111
+#: lib/admin/boxes/custom-css-builder.php:280
+#: lib/admin/boxes/custom-css-builder.php:290
+msgid "Color"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:225
+#: lib/admin/boxes/custom-css-builder.php:83
+msgid "Image"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:233
+#: lib/admin/boxes/custom-css-builder.php:91
+msgid "Gradients? Check out this"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:233
+#: lib/admin/boxes/custom-css-builder.php:91
+msgid "CSS Gradient Generator &raquo;"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:241
+#: lib/admin/boxes/custom-css-builder.php:99
+msgid "Full"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:242
+#: lib/admin/boxes/custom-css-builder-popup.php:271
+#: lib/admin/boxes/custom-css-builder-popup.php:281
+#: lib/admin/boxes/custom-css-builder.php:100
+#: lib/admin/boxes/custom-css-builder.php:129
+#: lib/admin/boxes/custom-css-builder.php:139
+msgid "Top"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:243
+#: lib/admin/boxes/custom-css-builder-popup.php:275
+#: lib/admin/boxes/custom-css-builder-popup.php:285
+#: lib/admin/boxes/custom-css-builder.php:101
+#: lib/admin/boxes/custom-css-builder.php:133
+#: lib/admin/boxes/custom-css-builder.php:143
+msgid "Bottom"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:244
+#: lib/admin/boxes/custom-css-builder-popup.php:277
+#: lib/admin/boxes/custom-css-builder-popup.php:287
+#: lib/admin/boxes/custom-css-builder-popup.php:315
+#: lib/admin/boxes/custom-css-builder-popup.php:378
+#: lib/admin/boxes/custom-css-builder.php:102
+#: lib/admin/boxes/custom-css-builder.php:135
+#: lib/admin/boxes/custom-css-builder.php:145
+#: lib/admin/boxes/custom-css-builder.php:173
+#: lib/admin/boxes/custom-css-builder.php:236
+msgid "Left"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:245
+#: lib/admin/boxes/custom-css-builder-popup.php:273
+#: lib/admin/boxes/custom-css-builder-popup.php:283
+#: lib/admin/boxes/custom-css-builder-popup.php:317
+#: lib/admin/boxes/custom-css-builder-popup.php:379
+#: lib/admin/boxes/custom-css-builder.php:103
+#: lib/admin/boxes/custom-css-builder.php:131
+#: lib/admin/boxes/custom-css-builder.php:141
+#: lib/admin/boxes/custom-css-builder.php:175
+#: lib/admin/boxes/custom-css-builder.php:237
+msgid "Right"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:247
+#: lib/admin/boxes/custom-css-builder.php:105
+msgid "Thickness"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:248
+#: lib/admin/boxes/custom-css-builder-popup.php:300
+#: lib/admin/boxes/custom-css-builder-popup.php:366
+#: lib/admin/boxes/custom-css-builder-popup.php:370
+#: lib/admin/boxes/custom-css-builder-popup.php:374
+#: lib/admin/boxes/settings-general.php:229
+#: lib/admin/boxes/settings-general.php:230
+#: lib/admin/boxes/settings-general.php:244
+#: lib/admin/boxes/settings-general.php:245
+#: lib/admin/boxes/settings-general.php:259
+#: lib/admin/boxes/settings-general.php:260
+#: lib/admin/boxes/settings-general.php:274
+#: lib/admin/boxes/settings-general.php:275
+#: lib/admin/boxes/settings-general.php:289
+#: lib/admin/boxes/settings-general.php:290
+msgid "px"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:249
+#: lib/admin/boxes/custom-css-builder.php:107
+msgid "Style"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:257
+#: lib/admin/boxes/custom-css-builder.php:115
+msgid "Tp-Lft"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:259
+#: lib/admin/boxes/custom-css-builder.php:117
+msgid "Tp-Rt"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:261
+#: lib/admin/boxes/custom-css-builder.php:119
+msgid "Btm-Rt"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:263
+#: lib/admin/boxes/custom-css-builder.php:121
+msgid "Btm-Lft"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:305
+#: lib/admin/boxes/custom-css-builder-popup.php:310
+#: lib/admin/boxes/custom-css-builder.php:163
+#: lib/admin/boxes/custom-css-builder.php:168
+msgid "Normal"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:306
+#: lib/admin/boxes/custom-css-builder.php:164
+msgid "Bold"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:311
+#: lib/admin/boxes/custom-css-builder.php:169
+msgid "Italic"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:316
+#: lib/admin/boxes/custom-css-builder.php:174
+msgid "Center"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:321
+#: lib/admin/boxes/custom-css-builder-popup.php:377
+#: lib/admin/boxes/custom-css-builder.php:179
+#: lib/admin/boxes/custom-css-builder.php:235
+msgid "None"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:322
+#: lib/admin/boxes/custom-css-builder.php:180
+msgid "Uppercase"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:323
+#: lib/admin/boxes/custom-css-builder.php:181
+msgid "Lowercase"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:324
+#: lib/admin/boxes/custom-css-builder.php:182
+msgid "Capitalize"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:328
+#: lib/admin/boxes/custom-css-builder.php:186
+msgid ".5px"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:329
+#: lib/admin/boxes/custom-css-builder.php:187
+msgid "1px"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:330
+#: lib/admin/boxes/custom-css-builder.php:188
+msgid "1.5px"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:331
+#: lib/admin/boxes/custom-css-builder.php:189
+msgid "2px"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:332
+#: lib/admin/boxes/custom-css-builder.php:190
+msgid "2.5px"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:333
+#: lib/admin/boxes/custom-css-builder.php:191
+msgid "3px"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:334
+#: lib/admin/boxes/custom-css-builder.php:192
+msgid "3.5px"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:335
+#: lib/admin/boxes/custom-css-builder.php:193
+msgid "4px"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:339
+#: lib/admin/boxes/custom-css-builder.php:197
+msgid "100%"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:340
+#: lib/admin/boxes/custom-css-builder.php:198
+msgid "110%"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:341
+#: lib/admin/boxes/custom-css-builder.php:199
+msgid "120%"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:342
+#: lib/admin/boxes/custom-css-builder.php:200
+msgid "130%"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:343
+#: lib/admin/boxes/custom-css-builder.php:201
+msgid "140%"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:344
+#: lib/admin/boxes/custom-css-builder.php:202
+msgid "150%"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:345
+#: lib/admin/boxes/custom-css-builder.php:203
+msgid "160%"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:346
+#: lib/admin/boxes/custom-css-builder.php:204
+msgid "170%"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:347
+#: lib/admin/boxes/custom-css-builder.php:205
+msgid "180%"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:348
+#: lib/admin/boxes/custom-css-builder.php:206
+msgid "190%"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:349
+#: lib/admin/boxes/custom-css-builder.php:207
+msgid "200%"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:353
+#: lib/admin/boxes/custom-css-builder-popup.php:391
+#: lib/admin/boxes/custom-css-builder.php:211
+#: lib/admin/boxes/custom-css-builder.php:249
+msgid "none"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:354
+#: lib/admin/boxes/custom-css-builder.php:212
+msgid "underline"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:355
+#: lib/admin/boxes/custom-css-builder.php:213
+msgid "overline"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:356
+#: lib/admin/boxes/custom-css-builder.php:214
+msgid "line-through"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:357
+#: lib/admin/boxes/custom-css-builder.php:215
+msgid "blink"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:358
+#: lib/admin/boxes/custom-css-builder-popup.php:387
+#: lib/admin/boxes/custom-css-builder-popup.php:407
+#: lib/admin/boxes/custom-css-builder.php:216
+#: lib/admin/boxes/custom-css-builder.php:245
+#: lib/admin/boxes/custom-css-builder.php:265
+msgid "inherit"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:368
+#: lib/admin/boxes/custom-css-builder-popup.php:372
+msgid "%"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:383
+#: lib/admin/boxes/custom-css-builder.php:241
+msgid "absolute"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:384
+#: lib/admin/boxes/custom-css-builder.php:242
+msgid "fixed"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:385
+#: lib/admin/boxes/custom-css-builder.php:243
+msgid "relative"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:386
+#: lib/admin/boxes/custom-css-builder.php:244
+msgid "static"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:392
+#: lib/admin/boxes/custom-css-builder.php:250
+msgid "block"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:393
+#: lib/admin/boxes/custom-css-builder.php:251
+msgid "inline"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:394
+#: lib/admin/boxes/custom-css-builder.php:252
+msgid "inline-block"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:395
+#: lib/admin/boxes/custom-css-builder.php:253
+msgid "inline-table"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:396
+#: lib/admin/boxes/custom-css-builder.php:254
+msgid "list-item"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:397
+#: lib/admin/boxes/custom-css-builder.php:255
+msgid "run-in"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:398
+#: lib/admin/boxes/custom-css-builder.php:256
+msgid "table"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:399
+#: lib/admin/boxes/custom-css-builder.php:257
+msgid "table-caption"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:400
+#: lib/admin/boxes/custom-css-builder.php:258
+msgid "table-cell"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:401
+#: lib/admin/boxes/custom-css-builder.php:259
+msgid "table-column"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:402
+#: lib/admin/boxes/custom-css-builder.php:260
+msgid "table-column-group"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:403
+#: lib/admin/boxes/custom-css-builder.php:261
+msgid "table-footer-group"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:404
+#: lib/admin/boxes/custom-css-builder.php:262
+msgid "table-header-group"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:405
+#: lib/admin/boxes/custom-css-builder.php:263
+msgid "table-row"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:406
+#: lib/admin/boxes/custom-css-builder.php:264
+msgid "table-row-group"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:414
+#: lib/admin/boxes/custom-css-builder-popup.php:426
+#: lib/admin/boxes/custom-css-builder.php:272
+#: lib/admin/boxes/custom-css-builder.php:284
+msgid "Lft-Rt"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:416
+#: lib/admin/boxes/custom-css-builder-popup.php:428
+#: lib/admin/boxes/custom-css-builder.php:274
+#: lib/admin/boxes/custom-css-builder.php:286
+msgid "Tp-Btm"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:418
+#: lib/admin/boxes/custom-css-builder-popup.php:430
+#: lib/admin/boxes/custom-css-builder.php:276
+#: lib/admin/boxes/custom-css-builder.php:288
+msgid "Blur"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:420
+#: lib/admin/boxes/custom-css-builder.php:278
+msgid "Spread"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:440
+msgid "Add scripts below to append them to the &lt;head&gt; of your site."
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:441
+msgid "(eg. Linking to Google Font Stylesheets)"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:450
+msgid "Current &lt;body&gt; classes for this page:"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:452
+msgid "&lt;HTML&gt; of last clicked Element #label:"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:11
+msgid "Custom CSS Builder"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:24
+msgid "Select and Insert [&raquo;] Elements to be styled:"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:40
+msgid "EZ Widget Area Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:45
+msgid "Main Content Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:51
+msgid "Currently Highlighted Element (via &lt;HTML&gt; Inspector)"
+msgstr ""
+
+#: lib/admin/boxes/custom-css.php:11
+#: lib/admin/boxes/settings-import-export.php:37
+#: lib/admin/boxes/settings-import-export.php:84
+#: lib/functions/genesis-extender-build-styles.php:15
+msgid "Custom CSS"
+msgstr ""
+
+#: lib/admin/boxes/custom-css.php:12
+msgid "Activate Front-end CSS Builder"
+msgstr ""
+
+#: lib/admin/boxes/custom-css.php:14
+msgid "Editor Only"
+msgstr ""
+
+#: lib/admin/boxes/custom-css.php:19
+msgid "Click To View Front-end"
+msgstr ""
+
+#: lib/admin/boxes/custom-functions.php:11
+#: lib/admin/boxes/settings-import-export.php:40
+#: lib/admin/boxes/settings-import-export.php:87
+msgid "Custom Functions"
+msgstr ""
+
+#: lib/admin/boxes/custom-functions.php:12
+msgid "Affect Admin"
+msgstr ""
+
+#: lib/admin/boxes/custom-hook-boxes.php:12
+#: lib/admin/boxes/settings-import-export.php:58
+#: lib/admin/boxes/settings-import-export.php:105
+msgid "Custom Hook Boxes"
+msgstr ""
+
+#: lib/admin/boxes/custom-hook-boxes.php:32
+#: lib/admin/boxes/custom-templates.php:48
+msgid "View Only"
+msgstr ""
+
+#: lib/admin/boxes/custom-hook-boxes.php:32
+#: lib/admin/boxes/custom-templates.php:48
+msgid "View All"
+msgstr ""
+
+#: lib/admin/boxes/custom-image-uploader.php:19
+msgid "Image Uploader: Images are uploaded to the"
+msgstr ""
+
+#: lib/admin/boxes/custom-image-uploader.php:19
+msgid "directory."
+msgstr ""
+
+#: lib/admin/boxes/custom-image-uploader.php:29
+msgid "Please wait, uploading image."
+msgstr ""
+
+#: lib/admin/boxes/custom-image-uploader.php:51
+msgid "Deselect All"
+msgstr ""
+
+#: lib/admin/boxes/custom-image-uploader.php:52
+msgid "Select All"
+msgstr ""
+
+#: lib/admin/boxes/custom-js.php:11
+msgid "Custom Javascript"
+msgstr ""
+
+#: lib/admin/boxes/custom-js.php:12
+msgid "Place In &lt;head&gt;"
+msgstr ""
+
+#: lib/admin/boxes/custom-labels.php:12
+#: lib/admin/boxes/settings-import-export.php:49
+#: lib/admin/boxes/settings-import-export.php:96
+msgid "Custom Labels"
+msgstr ""
+
+#: lib/admin/boxes/custom-labels.php:22
+msgid "Custom Label successfully added."
+msgstr ""
+
+#: lib/admin/boxes/custom-labels.php:26
+msgid "Custom Label successfully deleted."
+msgstr ""
+
+#: lib/admin/boxes/custom-labels.php:43
+#: lib/admin/boxes/custom-templates.php:46
+msgid "Conditional Tag: "
+msgstr ""
+
+#: lib/admin/boxes/custom-labels.php:43
+msgid "extender_has_label('"
+msgstr ""
+
+#: lib/admin/boxes/custom-labels.php:43
+msgid "')"
+msgstr ""
+
+#: lib/admin/boxes/custom-labels.php:44
+msgid "Body Class: "
+msgstr ""
+
+#: lib/admin/boxes/custom-labels.php:44
+msgid "label-"
+msgstr ""
+
+#: lib/admin/boxes/custom-php-builder.php:11
+msgid "Custom PHP Builder"
+msgstr ""
+
+#: lib/admin/boxes/custom-php-builder.php:19
+msgid "add_action"
+msgstr ""
+
+#: lib/admin/boxes/custom-php-builder.php:20
+msgid "remove_action"
+msgstr ""
+
+#: lib/admin/boxes/custom-php-builder.php:21
+msgid "\"replace\"_action"
+msgstr ""
+
+#: lib/admin/boxes/custom-php-builder.php:22
+msgid "add_filter"
+msgstr ""
+
+#: lib/admin/boxes/custom-php-builder.php:25
+msgid "Actions"
+msgstr ""
+
+#: lib/admin/boxes/custom-php-builder.php:31
+msgid "Filters"
+msgstr ""
+
+#: lib/admin/boxes/custom-php-builder.php:37
+msgid "Your Custom Function Name"
+msgstr ""
+
+#: lib/admin/boxes/custom-php-builder.php:57
+msgid "Layouts"
+msgstr ""
+
+#: lib/admin/boxes/custom-templates.php:12
+#: lib/admin/boxes/settings-import-export.php:46
+#: lib/admin/boxes/settings-import-export.php:93
+msgid "Custom Templates"
+msgstr ""
+
+#: lib/admin/boxes/custom-templates.php:22
+msgid "Custom Template successfully added."
+msgstr ""
+
+#: lib/admin/boxes/custom-templates.php:26
+msgid "Custom Template successfully deleted."
+msgstr ""
+
+#: lib/admin/boxes/custom-templates.php:46
+msgid "is_page_template('my-templates/"
+msgstr ""
+
+#: lib/admin/boxes/custom-templates.php:46
+msgid ".php')"
+msgstr ""
+
+#: lib/admin/boxes/custom-widget-areas.php:12
+#: lib/admin/boxes/settings-import-export.php:55
+#: lib/admin/boxes/settings-import-export.php:102
+msgid "Custom Widget Areas"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:10
+msgid "General Settings"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:16
+msgid "Static Homepage"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:20
+msgid "Activate the Genesis Extender Static Homepage"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:25
+msgid "Select An EZ Home Widget Area Structure:"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:32
+msgid "Examples"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:36
+msgid "Static Homepage Type:"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:37
+msgid "Full Page"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:38
+msgid "Content Column"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:43
+msgid "Static Homepage Layout:"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:44
+msgid "Content-Sidebar"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:45
+msgid "Sidebar-Content"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:46
+msgid "Content-Sidebar-Sidebar"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:47
+msgid "Sidebar-Sidebar-Content"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:48
+msgid "Sidebar-Content-Sidebar"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:49
+msgid "Full Width Content"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:54
+msgid "Add the \".entry\" class to the EZ Home Container Wrap div"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:63
+msgid "Google Font Control"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:67
+msgid "Add Google Fonts:"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:84
+msgid "Page Titles"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:88
+msgid "Remove All Page Titles"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:93
+msgid "Remove Specific Page Titles By IDs: (ie. 2,17 etc.)"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:98
+msgid "Page ID Reference:"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:113
+msgid "Custom Post Types"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:117
+msgid "Include Theme In-Post Options With All Custom Post Types"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:123
+msgid "Include Theme In-Post Options With Specific Custom Post Types"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:128
+msgid "Add Custom Post Type Names Below: (ie. products,recipes etc.)"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:133
+msgid "Custom Post Type Name Reference"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:157
+msgid "WordPress Post Formats"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:161
+msgid "Activate WordPress Post Formats"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:170
+msgid "Stylesheet Options"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:174
+msgid "Include Genesis \"Column Classes\" with the Default Stylesheet"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:179
+msgid "Combine & Minify The Default & Custom Stylesheets"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:188
+msgid "Font Awesome Styles"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:192
+msgid "Add Support For Font Awesome Icons"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:193
+msgid "Click here to view available icons"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:204
+msgid "Custom Thumbnail Sizes"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:208
+msgid "Please Note The Following For Proper Use:"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:211
+msgid "- The \"Mode\" value must be set for the Custom Thumbnail to work."
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:215
+msgid "- custom-thumb-1 must be set in order for thumb-2 through 5 to work."
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:220
+msgid "custom-thumb-1"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:223
+#: lib/admin/boxes/settings-general.php:238
+#: lib/admin/boxes/settings-general.php:253
+#: lib/admin/boxes/settings-general.php:268
+#: lib/admin/boxes/settings-general.php:283
+msgid "Mode"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:226
+#: lib/admin/boxes/settings-general.php:241
+#: lib/admin/boxes/settings-general.php:256
+#: lib/admin/boxes/settings-general.php:271
+#: lib/admin/boxes/settings-general.php:286
+msgid "Resize"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:227
+#: lib/admin/boxes/settings-general.php:242
+#: lib/admin/boxes/settings-general.php:257
+#: lib/admin/boxes/settings-general.php:272
+#: lib/admin/boxes/settings-general.php:287
+msgid "Crop"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:229
+#: lib/admin/boxes/settings-general.php:244
+#: lib/admin/boxes/settings-general.php:259
+#: lib/admin/boxes/settings-general.php:274
+#: lib/admin/boxes/settings-general.php:289
+msgid "Width"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:230
+#: lib/admin/boxes/settings-general.php:245
+#: lib/admin/boxes/settings-general.php:260
+#: lib/admin/boxes/settings-general.php:275
+#: lib/admin/boxes/settings-general.php:290
+msgid "Height"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:235
+msgid "custom-thumb-2"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:250
+msgid "custom-thumb-3"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:265
+msgid "custom-thumb-4"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:280
+msgid "custom-thumb-5"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:298
+msgid "Code Editor Syntax Highlighting"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:302
+msgid "Enable Custom CSS/Functions/JS Syntax Highlighting"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:317
+msgid ""
+"<br \\><strong>Note:</strong> The Active Child Theme is already HTML5 "
+"enabled."
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:329
+msgid "Genesis HTML5 Markup"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:333
+msgid "Activate Genesis HTML5 Markup"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:343
+msgid "Genesis \"Fancy Dropdowns\""
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:347
+msgid "Enable Genesis Menu \"Fancy Dropdowns\""
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:356
+msgid "Genesis Extender URL Protocols"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:360
+msgid "Enable Protocol Relative URLs"
+msgstr ""
+
+#: lib/admin/boxes/settings-import-export.php:15
+msgid ""
+"Settings/Custom Import Error: Import File Must Be In .dat Format (ie. "
+"my_backup.dat)"
+msgstr ""
+
+#: lib/admin/boxes/settings-import-export.php:19
+msgid "Settings/Custom Import Complete"
+msgstr ""
+
+#: lib/admin/boxes/settings-import-export.php:25
+msgid "Genesis Extender Settings/Custom Import/Export"
+msgstr ""
+
+#: lib/admin/boxes/settings-import-export.php:31
+msgid "Export Settings/Custom Options"
+msgstr ""
+
+#: lib/admin/boxes/settings-import-export.php:34
+#: lib/admin/boxes/settings-import-export.php:81
+msgid "Plugin Settings"
+msgstr ""
+
+#: lib/admin/boxes/settings-import-export.php:43
+#: lib/admin/boxes/settings-import-export.php:90
+msgid "Custom JS"
+msgstr ""
+
+#: lib/admin/boxes/settings-import-export.php:61
+#: lib/admin/boxes/settings-import-export.php:108
+msgid "Uploaded Images"
+msgstr ""
+
+#: lib/admin/boxes/settings-import-export.php:68
+msgid "Export Custom Options"
+msgstr ""
+
+#: lib/admin/boxes/settings-import-export.php:78
+msgid "Import Settings/Custom Options"
+msgstr ""
+
+#: lib/admin/boxes/settings-import-export.php:115
+msgid "Import Custom Options"
+msgstr ""
+
+#: lib/admin/boxes/settings-plugin-info.php:15
+msgid ""
+"It appears that some of your files/folders are unwritable to Genesis "
+"Extender. Please refer to"
+msgstr ""
+
+#: lib/admin/boxes/settings-plugin-info.php:15
+msgid "THIS KNOWLEDGEABLE ARTICLE"
+msgstr ""
+
+#: lib/admin/boxes/settings-plugin-info.php:15
+msgid "for a possible solution."
+msgstr ""
+
+#: lib/admin/boxes/settings-plugin-info.php:21
+msgid "Genesis Extender General Information"
+msgstr ""
+
+#: lib/admin/boxes/settings-plugin-info.php:23
+msgid "Using The Genesis Extender [?]Tooltips"
+msgstr ""
+
+#: lib/admin/boxes/settings-plugin-info.php:26
+msgid ""
+"Throughout the entire Genesis Extender admin interface are [?]Tooltips that "
+"link to appropriate knowledge base articles to help clarify and explain how "
+"the various options and features work. So if you find an option or setting "
+"to be unclear, chances are the nearest Tooltip will provide explanation."
+msgstr ""
+
+#: lib/admin/boxes/settings-plugin-info.php:34
+msgid "Version Information"
+msgstr ""
+
+#: lib/admin/boxes/settings-plugin-info.php:37
+msgid "PHP Version:"
+msgstr ""
+
+#: lib/admin/boxes/settings-plugin-info.php:41
+msgid "WordPress Version:"
+msgstr ""
+
+#: lib/admin/boxes/settings-plugin-info.php:45
+msgid "Genesis Version:"
+msgstr ""
+
+#: lib/admin/boxes/settings-plugin-info.php:50
+msgid "Child Theme Version:"
+msgstr ""
+
+#: lib/admin/boxes/settings-plugin-info.php:55
+msgid "Genesis Extender Version:"
+msgstr ""
+
+#: lib/admin/boxes/settings-plugin-info.php:67
+msgid "Genesis Extender Links & Resources"
+msgstr ""
+
+#: lib/admin/boxes/settings-plugin-info.php:69
+msgid "Genesis Extender Docs & Support"
+msgstr ""
+
+#: lib/admin/boxes/settings-plugin-info.php:72
+msgid "1. Check out the knowledge base:"
+msgstr ""
+
+#: lib/admin/boxes/settings-plugin-info.php:79
+msgid "2. Use the form to email support on the \"My Account\" page:"
+msgstr ""
+
+#: lib/admin/boxes/settings-plugin-info.php:85
+msgid "Make Money Promoting Genesis Extender"
+msgstr ""
+
+#: lib/admin/boxes/settings-plugin-info.php:88
+msgid ""
+"To help promote Genesis Extender and get a share of all sales you help to "
+"generate, join our affiliate program:"
+msgstr ""
+
+#: lib/admin/metaboxes/init.php:633
+msgid "Please Try Again"
+msgstr ""
+
+#: lib/admin/metaboxes/init.php:650
+msgid "Remove Embed"
+msgstr ""
+
+#: lib/admin/metaboxes/init.php:656
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: lib/functions/genesis-extender-build-styles.php:34
+msgid "Combined & Minified CSS"
+msgstr ""
+
+#: lib/functions/genesis-extender-image-uploader.php:62
+msgid "Please select a file to upload."
+msgstr ""
+
+#: lib/functions/genesis-extender-image-uploader.php:172
+msgid "Your image has been uploaded."
+msgstr ""
+
+#: lib/functions/genesis-extender-image-uploader.php:177
+msgid "This is not a valid filetype.  Valid filetypes are JPG, GIF and PNG."
+msgstr ""
+
+#: lib/functions/genesis-extender-image-uploader.php:250
+msgid "Filename:"
+msgstr ""
+
+#: lib/functions/genesis-extender-image-uploader.php:252
+msgid "Width:"
+msgstr ""
+
+#: lib/functions/genesis-extender-image-uploader.php:254
+msgid "Height:"
+msgstr ""
+
+#: lib/functions/genesis-extender-image-uploader.php:256
+msgid "Filesize:"
+msgstr ""
+
+#: lib/functions/genesis-extender-image-uploader.php:259
+msgid "Select this image for Bulk Delete"
+msgstr ""
+
+#: lib/functions/genesis-extender-image-uploader.php:261
+#: lib/functions/genesis-extender-image-uploader.php:281
+#: lib/functions/genesis-extender-image-uploader.php:325
+#: lib/functions/genesis-extender-image-uploader.php:346
+msgid "Rename Image"
+msgstr ""
+
+#: lib/functions/genesis-extender-image-uploader.php:262
+#: lib/functions/genesis-extender-image-uploader.php:375
+#: lib/functions/genesis-extender-image-uploader.php:445
+#: lib/functions/genesis-extender-image-uploader.php:466
+msgid "Delete Image"
+msgstr ""
+
+#: lib/functions/genesis-extender-image-uploader.php:283
+msgid "Current Filename:"
+msgstr ""
+
+#: lib/functions/genesis-extender-image-uploader.php:285
+msgid "Rename to:"
+msgstr ""
+
+#: lib/functions/genesis-extender-image-uploader.php:288
+#: lib/functions/genesis-extender-image-uploader.php:380
+msgid "Cancel"
+msgstr ""
+
+#: lib/functions/genesis-extender-image-uploader.php:327
+#: lib/functions/genesis-extender-image-uploader.php:348
+#: lib/functions/genesis-extender-image-uploader.php:447
+#: lib/functions/genesis-extender-image-uploader.php:468
+msgid "You did not supply a filename."
+msgstr ""
+
+#: lib/functions/genesis-extender-image-uploader.php:328
+#: lib/functions/genesis-extender-image-uploader.php:349
+#: lib/functions/genesis-extender-image-uploader.php:448
+#: lib/functions/genesis-extender-image-uploader.php:469
+msgid "OK"
+msgstr ""
+
+#: lib/functions/genesis-extender-image-uploader.php:377
+msgid "Are you sure you want to delete"
+msgstr ""
+
+#: lib/functions/genesis-extender-user-meta.php:21
+msgid "Genesis Extender Settings"
+msgstr ""
+
+#: lib/functions/genesis-extender-user-meta.php:25
+msgid "Genesis Extender Admin Menus"
+msgstr ""
+
+#: lib/functions/genesis-extender-user-meta.php:28
+msgid "Disable Genesis Extender Settings Submenu?"
+msgstr ""
+
+#: lib/functions/genesis-extender-user-meta.php:30
+msgid "Disable Genesis Extender Custom Submenu?"
+msgstr ""
+
+#: lib/functions/genesis-extender-user-meta.php:35
+msgid "Genesis Extender License"
+msgstr ""
+
+#: lib/functions/genesis-extender-user-meta.php:38
+msgid "Hide Genesis Extender License Key?"
+msgstr ""
+
+#: lib/update/genesis-extender-edd-updater.php:57
+msgid "Genesis Extender License Options"
+msgstr ""
+
+#: lib/update/genesis-extender-edd-updater.php:64
+msgid "License Key"
+msgstr ""
+
+#: lib/update/genesis-extender-edd-updater.php:69
+msgid "active"
+msgstr ""
+
+#: lib/update/genesis-extender-edd-updater.php:71
+msgid "Deactivate License"
+msgstr ""
+
+#: lib/update/genesis-extender-edd-updater.php:73
+msgid "inactive"
+msgstr ""
+
+#: lib/update/genesis-extender-edd-updater.php:75
+msgid "Activate License"
+msgstr ""

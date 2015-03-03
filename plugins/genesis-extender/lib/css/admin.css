@@ -1,0 +1,1702 @@
+/*** Theme Admin Styles  ***/
+
+body {
+	font-size: 13px;
+	font-family: "Open Sans",sans-serif;
+}
+
+p, ul, ol, blockquote, input, select {
+	font-size:12px;
+}
+
+.wp-admin select {
+	height: 25px;
+	margin-bottom: 4px;
+}
+
+.genesis-extender-custom-options-wrap label {
+	padding: 5px 5px 0 0;
+	float: left;
+}
+
+.genesis-extender-custom-options-wrap label.ui-corner-all {
+	float: none;
+}
+
+.wp-admin .genesis-extender-custom-widget-option p label input[type=checkbox],
+.wp-admin .genesis-extender-custom-hook-option p label input[type=checkbox] {
+	margin-top: 0;
+}
+
+body.toplevel_page_genesis_extender .no-display {
+	display: none;
+}
+
+a, a:link, a:visited {
+	color: #0074A2;
+	text-decoration: none;
+}
+
+a:hover, a:active  {
+	color: #2EA2CC;
+	text-decoration: none;
+}
+
+.genesis-extender-admin-nav,
+#genesis-extender-custom-css-builder-nav {
+	background: #222222;
+}
+
+.admin-color-light .genesis-extender-admin-nav,
+.admin-color-light #genesis-extender-custom-css-builder-nav {
+	background: #E5E5E5;
+}
+
+.admin-color-blue .genesis-extender-admin-nav,
+.admin-color-blue #genesis-extender-custom-css-builder-nav {
+	background: #4DACCE;
+}
+
+.admin-color-coffee .genesis-extender-admin-nav,
+.admin-color-coffee #genesis-extender-custom-css-builder-nav {
+	background: #59524C;
+}
+
+.admin-color-ectoplasm .genesis-extender-admin-nav,
+.admin-color-ectoplasm #genesis-extender-custom-css-builder-nav {
+	background: #523E6E;
+}
+
+.admin-color-midnight .genesis-extender-admin-nav,
+.admin-color-midnight #genesis-extender-custom-css-builder-nav {
+	background: #363B3F;
+}
+
+.admin-color-ocean .genesis-extender-admin-nav,
+.admin-color-ocean #genesis-extender-custom-css-builder-nav {
+	background: #728E97;
+}
+
+.admin-color-sunrise .genesis-extender-admin-nav,
+.admin-color-sunrise #genesis-extender-custom-css-builder-nav {
+	background: #D14840;
+}
+
+.genesis-extender-settings-wrap h3,
+.genesis-extender-custom-options-wrap h3,
+.genesis-extender-uploader-inner-1col h3,
+#genesis-extender-custom-css-builder h3,
+#genesis-extender-custom-php-builder h3,
+.genesis-extender-optionbox-outer-2col,
+.genesis-extender-custom-template-option,
+.genesis-extender-custom-label-option,
+.genesis-extender-custom-conditional-option,
+.genesis-extender-custom-widget-option,
+.genesis-extender-custom-hook-option,
+#genesis-extender-admin-footer {
+	background: #FFFFFF;
+	border: 1px solid #DFDFDF;
+	-webkit-box-shadow: 0 1px 2px rgba(0,0,0,.05);
+	box-shadow: 0 1px 2px rgba(0,0,0,.05);
+}
+
+.genesis-extender-settings-wrap .genesis-extender-optionbox-inner-1col h3 {
+	background: #FFFFFF;
+	color: #222222;
+}
+
+#wpbody {
+    position: inherit;
+}
+
+#genesis-extender-admin-heading {
+	width: 300px;
+	float: left;
+}
+
+#genesis-extender-admin-footer {
+	margin: 0 0 10px;
+	padding: 5px 0 6px;
+	float: left;
+}
+
+#genesis-extender-admin-footer p {
+	font-size: 12px !important;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+.genesis-extender-admin-nav {
+	margin: 0 0 15px;
+	padding: 8px 0;
+	text-align: center;
+}
+
+#genesis-extender-custom-css-builder-nav {
+	width: 775px;
+	margin: 10px 0 0 0;
+	padding: 8px 0;
+	float: left;
+	cursor: pointer;
+}
+
+#genesis-extender-custom-css-builder-nav ul,
+#genesis-extender-custom-css-builder-nav li {
+	margin: 0;
+	padding: 0;
+	display: inline;
+	list-style: none;
+}
+
+.genesis-extender-admin-nav ul,
+.genesis-extender-admin-nav li {
+	margin: 0;
+	padding: 0;
+	display: inline-block;
+	list-style: none;
+}
+
+.genesis-extender-admin-nav li a,
+.genesis-extender-admin-nav li a:link,
+.genesis-extender-admin-nav li a:visited,
+#genesis-extender-custom-css-builder-nav li a,
+#genesis-extender-custom-css-builder-nav li a:link,
+#genesis-extender-custom-css-builder-nav li a:visited {
+	margin: 0;
+	padding: 2px 17px 3px;
+	font-size: 13px;
+}
+
+#genesis-extender-settings-nav li a,
+#genesis-extender-settings-nav li a:link,
+#genesis-extender-settings-nav li a:visited {
+	padding: 2px 91px;
+}
+
+#genesis-extender-custom-options-nav li a,
+#genesis-extender-custom-options-nav li a:link,
+#genesis-extender-custom-options-nav li a:visited {
+	padding: 2px 18px;
+}
+
+#genesis-extender-custom-css-builder-nav li a,
+#genesis-extender-custom-css-builder-nav li a:link,
+#genesis-extender-custom-css-builder-nav li a:visited {
+	padding: 2px 18px;
+}
+
+a:hover, a:active  {
+	color: #2EA2CC;
+	text-decoration: none;
+}
+
+.genesis-extender-admin-nav li a,
+.genesis-extender-admin-nav li a:link,
+.genesis-extender-admin-nav li a:visited,
+#genesis-extender-custom-css-builder-nav li a,
+#genesis-extender-custom-css-builder-nav li a:link,
+#genesis-extender-custom-css-builder-nav li a:visited {
+	color: #BBBBBB;
+}
+
+.admin-color-light .genesis-extender-admin-nav li a,
+.admin-color-light .genesis-extender-admin-nav li a:link,
+.admin-color-light .genesis-extender-admin-nav li a:visited,
+.admin-color-light #genesis-extender-custom-css-builder-nav li a,
+.admin-color-light #genesis-extender-custom-css-builder-nav li a:link,
+.admin-color-light #genesis-extender-custom-css-builder-nav li a:visited {
+	color: #333333;
+}
+
+.admin-color-blue .genesis-extender-admin-nav li a,
+.admin-color-blue .genesis-extender-admin-nav li a:link,
+.admin-color-blue .genesis-extender-admin-nav li a:visited,
+.admin-color-blue #genesis-extender-custom-css-builder-nav li a,
+.admin-color-blue #genesis-extender-custom-css-builder-nav li a:link,
+.admin-color-blue #genesis-extender-custom-css-builder-nav li a:visited {
+	color: #E2ECF1;
+}
+
+.admin-color-coffee .genesis-extender-admin-nav li a,
+.admin-color-coffee .genesis-extender-admin-nav li a:link,
+.admin-color-coffee .genesis-extender-admin-nav li a:visited,
+.admin-color-coffee #genesis-extender-custom-css-builder-nav li a,
+.admin-color-coffee #genesis-extender-custom-css-builder-nav li a:link,
+.admin-color-coffee #genesis-extender-custom-css-builder-nav li a:visited {
+	color: #FFFFFF;
+}
+
+.admin-color-ectoplasm .genesis-extender-admin-nav li a,
+.admin-color-ectoplasm .genesis-extender-admin-nav li a:link,
+.admin-color-ectoplasm .genesis-extender-admin-nav li a:visited,
+.admin-color-ectoplasm #genesis-extender-custom-css-builder-nav li a,
+.admin-color-ectoplasm #genesis-extender-custom-css-builder-nav li a:link,
+.admin-color-ectoplasm #genesis-extender-custom-css-builder-nav li a:visited {
+	color: #CBC5D3;
+}
+
+.admin-color-midnight .genesis-extender-admin-nav li a,
+.admin-color-midnight .genesis-extender-admin-nav li a:link,
+.admin-color-midnight .genesis-extender-admin-nav li a:visited,
+.admin-color-midnight #genesis-extender-custom-css-builder-nav li a,
+.admin-color-midnight #genesis-extender-custom-css-builder-nav li a:link,
+.admin-color-midnight #genesis-extender-custom-css-builder-nav li a:visited {
+	color: #C2C4C5;
+}
+
+.admin-color-ocean .genesis-extender-admin-nav li a,
+.admin-color-ocean .genesis-extender-admin-nav li a:link,
+.admin-color-ocean .genesis-extender-admin-nav li a:visited,
+.admin-color-ocean #genesis-extender-custom-css-builder-nav li a,
+.admin-color-ocean #genesis-extender-custom-css-builder-nav li a:link,
+.admin-color-ocean #genesis-extender-custom-css-builder-nav li a:visited {
+	color: #D5DDDF;
+}
+
+.admin-color-sunrise .genesis-extender-admin-nav li a,
+.admin-color-sunrise .genesis-extender-admin-nav li a:link,
+.admin-color-sunrise .genesis-extender-admin-nav li a:visited,
+.admin-color-sunrise #genesis-extender-custom-css-builder-nav li a,
+.admin-color-sunrise #genesis-extender-custom-css-builder-nav li a:link,
+.admin-color-sunrise #genesis-extender-custom-css-builder-nav li a:visited {
+	color: #F0C8C6;
+}
+
+.genesis-extender-admin-nav li a:hover,
+#genesis-extender-custom-css-builder-nav li a:hover {
+	color: #2EA2CC;
+}
+
+.admin-color-light .genesis-extender-admin-nav li a:hover,
+.admin-color-light #genesis-extender-custom-css-builder-nav li a:hover {
+	color: #04A4CC;
+}
+
+.admin-color-blue .genesis-extender-admin-nav li a:hover,
+.admin-color-blue #genesis-extender-custom-css-builder-nav li a:hover {
+	color: #FFFFFF;
+}
+
+.admin-color-coffee .genesis-extender-admin-nav li a:hover,
+.admin-color-coffee #genesis-extender-custom-css-builder-nav li a:hover {
+	color: #C7A589;
+}
+
+.admin-color-ectoplasm .genesis-extender-admin-nav li a:hover,
+.admin-color-ectoplasm #genesis-extender-custom-css-builder-nav li a:hover {
+	color: #A3B745;
+}
+
+.admin-color-midnight .genesis-extender-admin-nav li a:hover,
+.admin-color-midnight #genesis-extender-custom-css-builder-nav li a:hover {
+	color: #E14D43;
+}
+
+.admin-color-ocean .genesis-extender-admin-nav li a:hover,
+.admin-color-ocean #genesis-extender-custom-css-builder-nav li a:hover {
+	color: #9EBAA0;
+}
+
+.admin-color-sunrise .genesis-extender-admin-nav li a:hover,
+.admin-color-sunrise #genesis-extender-custom-css-builder-nav li a:hover {
+	color: #F7E3D3;
+}
+
+.genesis-extender-options-nav-active a {
+	color: #FFFFFF !important;
+	text-decoration: underline;
+}
+
+.admin-color-light .genesis-extender-options-nav-active a {
+	color: #333333 !important;
+}
+
+.admin-color-blue .genesis-extender-options-nav-active a {
+	color: #FFFFFF !important;
+}
+
+.admin-color-coffee .genesis-extender-options-nav-active a {
+	color: #FFFFFF !important;
+}
+
+.admin-color-ectoplasm .genesis-extender-options-nav-active a {
+	color: #FFFFFF !important;
+}
+
+.admin-color-midnight .genesis-extender-options-nav-active a {
+	color: #FFFFFF !important;
+}
+
+.admin-color-ocean .genesis-extender-options-nav-active a {
+	color: #FFFFFF !important;
+}
+
+.admin-color-sunrise .genesis-extender-options-nav-active a {
+	color: #FFFFFF !important;
+}
+
+#genesis-extender-admin-wrap {
+	max-width: 1180px;
+	margin: 10px 0 0;
+	padding: 0;
+	clear: both;
+}
+
+#genesis-extender-admin-wrap p {
+	font-size: 11px;
+	color: #666666;
+}
+
+#genesis-extender-admin-wrap textarea {
+	font-size: 13px;
+}
+
+.genesis-extender-wrap-structure-settings .genesis-extender-structure-settings-hide,
+.genesis-extender-wrap-design-standard .genesis-extender-design-standard-hide,
+.genesis-extender-design-control-hide {
+	display: none;
+}
+
+.genesis-extender-wrap-structure-settings .genesis-extender-structure-settings-show,
+.genesis-extender-wrap-design-standard .genesis-extender-design-standard-show,
+.genesis-extender-design-control-show {
+	display: block;
+}
+
+.genesis-extender-settings-wrap,
+.genesis-extender-custom-options-wrap {
+	margin: 0;
+	padding: 0;
+	float: left;
+}
+
+.genesis-extender-import-export-checkboxes-wrap {
+	width: 49%;
+	float: left;
+}
+
+.genesis-extender-import-export-action-fields {
+	width: 49%;
+	float: right;	
+}
+
+#css-builder-click-to-view {
+	border: 1px solid #DDDDDD;
+	border-top: 0;
+	margin: 0 3px;
+	padding: 5px 0 15px;
+	text-align: center;
+	-moz-border-radius: 0px 0px 3px 3px;
+	-webkit-border-radius: 0px 0px 3px 3px;
+	border-radius: 0px 0px 3px 3px;
+}
+
+#genesis-extender-custom-css-builder-wrap,
+#genesis-extender-custom-php-builder-wrap {
+	background: #FFFFFF;
+	border: 1px solid #DFDFDF;
+	border-top: 1px solid #F0F0F0;
+	width: 804px;
+	float: left;
+	-webkit-box-shadow: 0 1px 2px rgba(0,0,0,.05);
+	box-shadow: 0 1px 2px rgba(0,0,0,.05);
+}
+
+#genesis-extender-custom-css-builder-wrap-inner,
+#genesis-extender-custom-php-builder-wrap-inner {
+	width: 775px;
+	float: left;
+}
+
+#css-builder-output-wrap,
+#php-builder-output-wrap {
+	width: 460px;
+	margin-top: 10px;
+	margin-right: 0;
+	margin-left: 0;
+	float: right;
+}
+
+#php-builder-output-wrap {
+	width: 777px;
+	margin-top: 0;
+}
+
+#css-builder-output,
+#php-builder-output {
+	border: 1px solid #DFDFDF;
+	width: 458px;
+	height: 268px;
+	margin: 0;
+	font-size: 13px !important;
+	line-height: normal !important;
+	font-family: monospace, sans-serif !important;
+	float: right;
+	overflow: auto;
+	-moz-border-radius: 0px 3px 3px 0px;
+	-webkit-border-radius: 0px 3px 3px 0px;
+	border-radius: 0px 3px 3px 0px;
+}
+
+#php-builder-output {
+	width: 775px;
+	height: 220px;
+}
+
+#css-builder-output-highlight,
+#css-builder-output-insert,
+#css-builder-output-insert-alt,
+#php-builder-output-highlight {
+	background: #F6F6F6;
+	width: 458px !important;
+	height: 28px;
+	margin-top: -1px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	margin-right: 0;
+	float: right;
+	cursor: pointer;
+	-moz-border-radius: 0px 0px 3px 3px !important;
+	-webkit-border-radius: 0px 0px 3px 3px !important;
+	border-radius: 0px 0px 3px 3px !important;
+}
+
+#php-builder-output-highlight {
+	width: 775px !important;
+}
+
+#css-builder-output-insert,
+#css-builder-output-insert-alt,
+#php-builder-output-highlight {
+	margin: 0 0 10px !important;
+}
+
+.php-builder-hidden-option {
+	display: none;
+}
+
+#css-builder-css-wrap {
+	margin: 10px 0;
+	float: right;
+}
+
+#genesis-extender-custom-css,
+#genesis-extender-custom-functions,
+#genesis-extender-custom-js {
+	border: 1px solid #DFDFDF;
+	margin:5px 0 0;
+	font-size: 13px !important;
+	line-height: normal !important;
+	font-family: monospace, sans-serif !important;
+	overflow: auto;
+	-moz-border-radius: 3px 3px 3px 3px;
+	-webkit-border-radius: 3px 3px 3px 3px;
+	border-radius: 3px 3px 3px 3px;
+}
+
+.CodeMirror {
+	width: 100%;
+	border: 1px solid #DFDFDF;
+	font-size: 13px !important;
+	float: left;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.genesis-extender-settings-wrap h3,
+.genesis-extender-custom-options-wrap h3,
+h3.genesis-extender-wide-option-heading,
+.genesis-extender-uploader-inner-1col h3,
+#genesis-extender-custom-css-builder h3,
+#genesis-extender-custom-php-builder h3 {
+	font-size: 14px;
+	font-weight: bold;
+	margin: 0 0 15px;
+	padding: 8px 0;
+	text-align: center;
+	clear: both;
+}
+
+.genesis-extender-custom-options-wrap .searchable-box h3 {
+	padding: 4px 0;
+}
+
+.genesis-extender-settings-wrap h3,
+.genesis-extender-custom-options-wrap h3,
+.genesis-extender-uploader-inner-1col h3,
+#genesis-extender-custom-css-builder h3,
+#genesis-extender-custom-php-builder h3 {
+	margin: 0;
+}
+
+.genesis-extender-optionbox-outer-1col {
+	border: 0 solid #DDDDDD;
+	margin: 0;
+	padding: 0;
+}
+
+.genesis-extender-optionbox-inner-1col {
+	background: #FFFFFF;
+	border: 1px solid #DFDFDF;
+	margin: 0 0 15px;
+	padding: 0;
+	-webkit-box-shadow: 0 1px 2px rgba(0,0,0,.05);
+	box-shadow: 0 1px 2px rgba(0,0,0,.05);
+}
+
+.genesis_page_genesis-extender-custom .genesis-extender-optionbox-inner-1col {
+	background: none;
+	border: none;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+}
+
+.genesis-extender-optionbox-2col-left-wrap {
+	width: 49%;
+	float: left;
+}
+
+.genesis-extender-optionbox-2col-right-wrap {
+	width: 49%;
+	float: right;
+}
+
+.genesis-extender-optionbox-2col-left-wrap,
+.genesis-extender-optionbox-2col-right-wrap {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.genesis-extender-optionbox-outer-2col {
+	background: #FFFFFF;
+	border: 1px solid #DFDFDF;
+	margin: 0 0 15px;
+	padding: 0;
+	float: left;
+}
+
+.genesis-extender-optionbox-inner-2col {
+	float: left;
+	margin: 0;
+	padding: 0;
+}
+
+h3.genesis-extender-wide-option-heading  {
+	border-bottom: 1px solid #F0F0F0;
+	color: #222222;
+}
+
+.genesis-extender-optionbox-inner-2col h4 {
+	background: #FFFFFF;
+	border-bottom: 1px solid #F0F0F0;
+	color: #222222;
+	font-size: 14px;
+	margin: 0 0 10px;
+	padding: 8px 0;
+	text-align: center;
+}
+
+.genesis-extender-optionbox-outer-3col {
+	border: 1px solid #D8D8D8;
+	width: 236px;
+	margin: 0 0 15px 0;
+	padding: 10px;
+	float: left;
+}
+
+.genesis-extender-export-option {
+	height: 300px;
+}
+
+.genesis-extender-custom-template-option p,
+.genesis-extender-custom-label-option p,
+.genesis-extender-custom-template-option p,
+.genesis-extender-custom-conditional-option p,
+.genesis-extender-custom-widget-option p,
+.genesis-extender-custom-hook-option p {
+	margin: 0;
+	padding: 5px 10px;
+}
+
+.genesis-extender-custom-template-option,
+.genesis-extender-custom-label-option,
+.genesis-extender-custom-conditional-option,
+.genesis-extender-custom-widget-option,
+.genesis-extender-custom-hook-option {
+	float: right;
+	margin: 15px 0 0;
+	padding: 0;
+}
+
+.genesis-extender-custom-widget-option {
+	padding: 5px 0 7px;
+}
+
+.genesis-extender-custom-template-option,
+.genesis-extender-custom-hook-option {
+	padding: 5px 0 0;
+}
+
+#genesis-extender-admin-wrap,
+.genesis-extender-admin-nav,
+.genesis-extender-theme-settings-wrap,
+.genesis-extender-design-options-wrap,
+.genesis-extender-custom-options-wrap,
+.genesis-extender-settings-wrap h3,
+.genesis-extender-custom-options-wrap h3,
+.genesis-extender-optionbox-outer-1col,
+.genesis-extender-optionbox-inner-1col,
+.genesis-extender-optionbox-outer-2col,
+.genesis-extender-optionbox-inner-2col,
+.genesis-extender-custom-template-option,
+.genesis-extender-custom-label-option,
+.genesis-extender-custom-conditional-option,
+.genesis-extender-custom-widget-option,
+.genesis-extender-custom-hook-option,
+#genesis-extender-custom-css,
+#genesis-extender-custom-functions,
+#genesis-extender-custom-js,
+.genesis-extender-tabby-textarea,
+#genesis-extender-admin-footer,
+.notice-box {
+	width: 100%;
+	float: left;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.genesis-extender-custom-template-option .delete-template,
+.genesis-extender-custom-conditional-option .delete-conditional,
+.genesis-extender-custom-widget-option .delete-widget,
+.genesis-extender-custom-hook-option .delete-hook {
+	margin: 0 !important;
+}
+
+.genesis-extender-custom-label-option .delete-label {
+	margin: 1px 0 0 !important;
+}
+
+.genesis-extender-custom-templates .add-template,
+.genesis-extender-custom-conditionals .add-conditional,
+.genesis-extender-custom-widgets .add-widget,
+.genesis-extender-custom-hooks .add-hook {
+	margin: 0 10px 10px 0 !important;
+}
+
+.wp-core-ui .button {
+	height: 25px;
+	margin: 0;
+	padding: 0 10px 1px;
+	font-size: 13px;
+	vertical-align: middle;
+	line-height: 23px;
+}
+
+.genesis-extender-custom-template-option input,
+.genesis-extender-custom-template-option select,
+.genesis-extender-custom-label-option input,
+.genesis-extender-custom-label-option select,
+.genesis-extender-custom-conditional-option input,
+.genesis-extender-custom-conditional-option select,
+.genesis-extender-custom-widget-option input,
+.genesis-extender-custom-widget-option select,
+.genesis-extender-custom-hook-option input,
+.genesis-extender-custom-hook-option select,
+.ui-multiselect,
+.do-shortcode.button {
+	margin: 0 5px 0 0;
+	float: left !important;
+}
+
+.label-create-conditional {
+	padding-top: 5px;
+	float: left;
+}
+
+.label-create-conditional input {
+	float: none !important;
+}
+
+.genesis-extender-custom-template-option textarea,
+.genesis-extender-custom-hook-option textarea {
+	margin: 10px 0;
+}
+
+input[type=text] {
+	padding: 3px 5px;
+}
+
+#wpbody select {
+	height: 25px;
+	font-size: 12px;
+}
+
+#wpbody .genesis-extender-add-button {
+	margin: -3px 10px 0 -75px !important;
+	font-weight: normal;
+	float: right;
+}
+
+#wpbody .searchable-box .genesis-extender-add-button {
+	margin-top: 1px !important;
+}
+
+.do-shortcode.button {
+	margin: 0 10px 0 0 !important;
+}
+
+.view-only-template, .view-all-templates,
+.view-only-hook, .view-all-hooks {
+	width: 182px;
+	margin: 0;
+	line-height: 25px;
+	float: right;
+}
+
+.view-all-templates, .view-all-hooks {
+	width: 152px;
+	display: none;
+}
+
+.view-only-template a,
+.view-only-template a:visited,
+.view-all-templates a,
+.view-all-templates a:visited,
+.view-only-hook a,
+.view-only-hook a:visited,
+.view-all-hooks a,
+.view-all-hooks a:visited {
+	color: #464646;
+}
+
+.view-only-template a:hover,
+.view-only-template a:active,
+.view-all-templates a:hover,
+.view-all-templates a:active,
+.view-only-hook a:hover,
+.view-only-hook a:active,
+.view-all-hooks a:hover,
+.view-all-hooks a:active {
+	color: #111111;
+}
+
+.custom-css-builder-button {
+	width: 150px;
+}
+
+.css-builder-elements-select {
+	width: 265px;
+	margin-bottom: 5px;
+}
+
+.custom-css-builder-button-bgs {
+	width: 300px;
+	margin-bottom: 10px;
+}
+
+.custom-css-builder-button-elements {
+	width: 25px;
+}
+
+.color-box {
+	width: 60px;
+	margin-left: 5px;
+}
+
+.color-box-150 {
+	width: 150px;
+}
+
+.color-box-230 {
+	width: 230px;
+}
+
+.css-builder-font-options-width-control {
+	width: 150px;
+}
+
+.code-box textarea {
+	width: 274px;
+	height: 95px;
+	margin: 5px 0 5px -4px;
+	padding: 3px 7px 3px 7px;
+	background: #333 !important;
+	color: #fff;
+}
+
+.code, code {
+	font-family: Arial, sans-serif;
+	color: #444;
+	padding: 2px;
+}
+
+code.genesis-extender-px-unit {
+	margin: 0;
+	padding: 3px 4px 5px;
+}
+
+.page-cat-id-scrollbox {
+	width: 100%;
+	height: 200px;
+	border: 1px solid #DFDFDF;
+	padding: 10px !important;
+	overflow: scroll;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+#readme-box {
+	background: #FFFFFF;
+	border: none;
+	margin: 0 10px 10px;
+	padding: 0 10px;
+}
+
+#readme-box h5 {
+	color: #014662;
+	font-family: Georgia,serif;
+	font-size: 14px;
+	margin-top: 15px;
+}
+
+#readme-box .tooltip h5 {
+	color: #555555;
+	font-size: 13px;
+	margin-top: 0;
+}
+
+#readme-box p {
+	color: #333333;
+	font-family: Georgia, serif;
+	font-size: 13px;
+	text-align: justify;
+}
+
+#readme-box .tooltip p {
+	color: #666666;
+	font-size:11px;
+	text-align: normal;
+}
+
+#resource-box {
+	background: #FFFFFF;
+	border: none;
+	margin: 0 10px 10px;
+	padding: 0 10px;
+}
+
+#resource-box h5 {
+	color:#014662;
+	font-family:Georgia,serif;
+	font-size:14px;
+	margin-top:15px;
+}
+
+#resource-box p {
+	color: #333333;
+	font-family:Georgia, serif;
+	font-size:13px;
+	text-align: justify;
+}
+
+.bg-box {
+	background: #FFFFFF;
+	border: none;
+	margin: 0 10px 10px;
+	padding: 0 5px;
+}
+
+.bg-box-design {
+	margin: 0 0 10px 0;
+	padding: 5px 0;
+	overflow: hidden;
+}
+
+.genesis-extender-css-builder-button-wrap,
+.genesis-extender-php-builder-button-wrap {
+	margin-top: 7px;
+	padding: 5px 0;
+	float: left;
+}
+
+.show-hide-custom-conditional-width-defaults-styles {
+	background: #E9E9E9 url(images/genesis-extender-admin-nav-bg.png) repeat-x;
+	border-top: 1px solid #FFFFFF;
+	border-bottom: 1px solid #BBBBBB;
+	border-right: 1px solid #BBBBBB;
+	border-left: 1px solid #FFFFFF;
+	margin-left: 10px;
+	padding: 2px 3px;
+	color: #777777;
+	text-shadow: 0px 1px 0px #FFFFFF;
+	font-size: 12px;
+	font-weight: normal;
+	cursor: pointer;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+}
+
+.show-hide-custom-conditional-width-defaults-styles:hover {
+	background: #F1F1F1;
+	border: 1px solid #F1F1F1;
+}
+
+.genesis-extender-custom-fonts-box {
+	background: #F4F4F4;
+	border: 1px solid #D8D8D8;
+	width: 512px;
+	margin: -3px 0 0;
+	padding: 10px;
+	float: right;
+	font-weight: normal;
+	position: absolute;
+}
+
+.wp-core-ui .button.custom-hilight {
+	background: #DDDDDD;
+	background-image: linear-gradient(to bottom,#EEEEEE,#DDDDDD);
+}
+
+.show-hide-custom-css {
+	margin: 0;
+	float: right;
+}
+
+.genesis-extender-all-options,
+.genesis-extender-all-css-builder {
+	display: none;
+}
+
+.genesis-extender-options-display {
+	display: block;
+}
+
+.genesis-extender-optionset {
+	margin: 0;
+	padding: 0 10px;
+}
+
+#genesis-extender-floating-save {
+	position: fixed;
+	left: 707px;
+	margin-top:	-45px;
+	outline: 0;
+	z-index: 100;
+}
+
+#genesis-extender-floating-save input[type="image"] {
+	width: 145px;
+	height: auto;
+	border: 0;
+	outline: none;
+	padding: 0;
+}
+
+.genesis-extender-save  {
+	font-size: 14px;
+	cursor: pointer;
+	float: right;
+	margin: 0 10px 0 0;
+	padding: 5px;
+}
+
+.genesis-extender-reset  {
+	font-size: 10px;
+	cursor: pointer;
+}
+
+/* Tooltip Styles */
+
+.tooltip {
+	background: #FFFFFF;
+	border: 1px solid #E2E2E2;
+	font-size: 12px;
+	padding: 15px;
+	color: #fff !important;
+	z-index:51;
+	display: none;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	-moz-box-shadow: 0 5px 5px #ccc;
+	-webkit-box-shadow: 0 5px 5px #ccc;
+	box-shadow: 0 5px 5px #ccc;
+}
+
+.tooltip-300 {
+	width: 300px;
+}
+
+.tooltip-scroll-300 {
+	height: 450px;
+	overflow: scroll;
+}
+
+.tooltip-400 {
+	width: 400px;
+}
+
+.tooltip-scroll-400 {
+	height: 450px;
+	overflow: scroll;
+}
+
+.tooltip-500 {
+	width: 500px;
+}
+
+.tooltip-scroll-500 {
+	height: 450px;
+	overflow: scroll;
+}
+
+.tooltip-600 {
+	width: 600px;
+}
+
+.tooltip-scroll-600 {
+	height: 450px;
+	overflow: scroll;
+}
+
+.tooltip p {
+	padding-left: 0;
+	color: #555555;
+}
+
+.tooltip li {
+	margin-left: 20px;
+	padding: 0 10px 10px 0;
+	color: #555555;
+	list-style: square;
+}
+
+.tooltip h5 {
+	margin: 0 0 -5px;
+	color: #555555;
+	font-size: 13px;
+	clear: both;
+}
+
+.tooltip-quote {
+	background: #F1F1F1;
+	border: 1px solid #E8E8E8;
+	margin: 10px 0 15px;
+	padding: 0 10px 10px;
+	float: left;
+	font-style: italic;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	-moz-box-shadow: 0 5px 5px #ccc;
+	-webkit-box-shadow: 0 5px 5px #ccc;
+	box-shadow: 0 5px 5px #ccc;
+}
+
+.tooltip-credit {
+	background: #F1F1F1;
+	border: 1px solid #E8E8E8;
+	margin: 0;
+	padding: 5px 10px;
+	color: #555555;
+	float: left;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+}
+
+.tooltip {
+	color: #3A639A !important;
+}
+
+.tooltip a,
+.tooltip a:link,
+.tooltip a:visited {
+	color: #3A639A !important;
+}
+
+.tooltip a:hover,
+.tooltip a:active {
+	color: #5482C8 !important;
+}
+
+.tooltip-mark {
+	color:#21759B;
+	font-size:11px;
+	font-weight:bold;
+	cursor:pointer;
+}
+
+/* Notice Box Styles */
+.notice-box {
+	background: #FFFBCC;
+	border: 1px solid #E6DB55;
+	color: #555555;
+	text-align: center;
+	margin: 10px 0px -5px;
+	padding: 5px 8px;
+}
+
+/* Update Notice Styles */
+.genesis-extender-update-box {
+	background: #004261;
+	font-size: 18px !important;
+	padding: 13px 28px;
+	color: #fff !important;
+	display: none;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	-moz-box-shadow: -1px 3px 5px #aaa;
+	-webkit-box-shadow: 0 5px 5px #ccc;
+	box-shadow: 0 5px 5px #ccc;
+	z-index: 100;
+}
+
+#update-nag, .update-nag {
+	margin-bottom:15px;
+}
+
+.resizable-textarea textarea {
+	display:block;
+	margin-bottom:0pt;
+	width:95%;
+	height: 20%;
+}
+
+.default-text-active {
+	color: #AAAAAA !important;
+	font-style: italic;
+	font-weight: normal;
+}
+
+.disabled-form-element {
+	opacity: 0.2;
+}
+
+/**********************
+ Image Uploader Styles
+***********************/
+
+html, body {
+height: 100%;
+} 
+
+/*The below styles how the header DIV will look*/
+.header {
+	font-family: Georgia, serif;
+	font-size: 16px;
+	text-align: left;
+	color: #555;
+	margin-left: 10px;
+	padding-top: 0;
+	padding-bottom: 30px;
+	padding-left: 220px;
+	background-repeat: no-repeat;
+	background-position: center left;
+	height: 0;
+	line-height: 200%;
+}
+
+/*The below styles how the main DIV which holds the all other DIVs will look*/
+.placeholder {
+	margin-bottom: 10px;
+	text-align: center;
+	width: 100%;
+	float: left;
+}
+
+.placeholder2 {
+	margin-bottom: 10px;
+	text-align: center;
+	float: left;
+}
+
+/*The below styles how the content contained within the rounded edged boxes will look*/
+/*To change the background colour of this box change #EEEEEE*/
+.containercontent {
+	text-align: left !important;
+}
+ 
+.containercontent-input {
+	padding-top: 1px !important;
+	color: #000000 !important;
+	text-align: left !important;
+}
+
+/*The below styles how the main DIV which holds the all other DIVs will look*/
+.placeholderoptions {
+	margin-top: 25px !important;
+	margin-bottom: 25px !important;
+	text-align: center !important;
+	margin-left: auto !important;
+	margin-right: auto !important;
+}
+/*The below styles how the upload form DIVS will look (the rounded edges of the boxes)*/
+/*To change the background colour of these boxes change every occurrence of #EEEEEE*/
+.uploadoptions {
+	display:block !important;
+}
+
+.uploadoptions * {
+	display:block !important;
+	height:1px !important;
+	overflow:hidden !important;
+	font-size:.01em !important;
+	background:#F9F9F9 !important;
+}
+
+.uploadoptions1 {
+	margin-left:3px !important;
+	margin-right:3px !important;
+	padding-left:1px !important;
+	padding-right:1px !important;
+	border-left:1px solid #FFFFFF !important;
+	border-right:1px solid #FFFFFF !important;
+	background:#F9F9F9 !important;
+}
+
+.uploadoptions2 {
+	margin-left:1px !important;
+	margin-right:1px !important;
+	padding-right:1px !important;
+	padding-left:1px !important;
+	border-left:1px solid #FFFFFF !important;
+	border-right:1px solid #FFFFFF !important;
+	background:#F9F9F9 !important;
+}
+
+.uploadoptions3 {
+	margin-left:1px !important;
+	margin-right:1px !important;
+	border-left:1px solid #FFFFFF !important;
+	border-right:1px solid #FFFFFF !important;
+}
+
+.uploadoptions4 {
+	border-left:1px solid #FFFFFF !important;
+	border-right:1px solid #FFFFFF !important;
+}
+
+.uploadoptions5 {
+	border-left:1px solid #FFFFFF !important;
+	border-right:1px solid #FFFFFF !important;
+}
+
+/*The below styles how the content contained within the rounded edged boxes will look*/
+/*To change the background colour of this box change #EEEEEE*/
+.uploadoptionscontent {
+	min-height: 50px !important;
+	padding: 10px !important;
+	color: #333 !important;
+	text-align: left !important;
+	font-size: 12px !important;
+	background:#F9F9F9 !important;
+}
+
+.uploadprogress {
+	font-size: 13px !important;
+	color: #000000 !important;
+	margin-left: 10px !important;
+	padding-top: 25px !important;
+	padding-left: 60px !important;
+	background-image: url(images/loading.gif) !important;
+	background-repeat: no-repeat !important;
+	background-position: center left !important;
+	height: 48px !important;
+}
+
+/*The below styles how a success message will look in the upload form*/
+.success {
+	font-size: 13px !important;
+	color: green !important;
+	margin-left: 10px !important;
+	padding-top: 25px !important;
+	padding-left: 60px !important;
+	background-image: url(images/success.png) !important;
+	background-repeat: no-repeat !important;
+	background-position: center left !important;
+	height: 48px !important;
+}
+
+/*The below styles how a success message will look in the delete box*/
+.deletesuccess {
+	background-image: url(images/success.png) !important;
+	background-repeat: no-repeat !important;
+	background-position: center center !important;
+	height: 48px !important;
+	width: 100px !important;
+	display: block !important;
+	margin-left: auto !important;
+	margin-right: auto !important;
+	margin-bottom: 10px !important;
+}
+
+/*The below styles how an error message will look in the upload form*/
+.uploader-error {
+	font-size: 13px !important;
+	color: red !important;
+	margin: 0 !important;
+	margin-right: 20px !important;
+	padding: 20px !important;
+	background: #FFEBE8 !important;
+	border: 1px solid #CC0000 !important;
+	position: absolute !important;
+	z-index: 9999 !important;
+}
+
+.renameerror {
+	background-image: url(images/error.png) !important;
+	background-repeat: no-repeat !important;
+	background-position: center center !important;
+	height: 48px !important;
+	width: 100px !important;
+	display: block !important;
+	margin-left: auto !important;
+	margin-right: auto !important;
+	margin-bottom: 10px !important;
+}
+
+/*The below styles how the various input boxes look*/
+.optionsinput {
+	font-size: 14px !important;
+	background: #FFFFFF !important;
+	border: 1px solid #000000 !important;
+	margin-left: 10px !important;
+}
+	
+.renameinput {
+	font-size: 14px !important;
+	background: #FFFFFF !important;
+	border: 1px solid #000000 !important;
+	margin-left: 10px !important;
+}
+
+/*The below styles how the file upload input box will look*/	
+.fileinput {
+	font-size: 13px !important;
+	background: #FFFFFF !important;
+	border: 1px solid #000000 !important;
+	height: 25px !important;
+	display: block !important;
+	margin: 0 auto 10px !important;
+}
+
+.buttoncontainer {
+	margin-bottom: 10px !important;
+	text-align: center !important;
+	width: 260px !important;
+	min-height: 25px !important;
+	margin-left: auto !important;
+	margin-right: auto !important;
+}
+
+.buttoncontainer a:link, .buttoncontainer a:visited {
+	text-decoration: none !important;
+}
+
+.button {
+	font-size: 13px !important;
+	border: 1px solid #BBBBBB !important;
+	margin: 0 5px 0 0!important;
+	color: #666 !important;
+	text-align: center !important;
+	float: right !important;
+}
+
+.button-highlighted,
+.custom-css-builder-buttons {
+	cursor: pointer;
+}
+
+body.genesis_page_genesis-extender-custom .genesis-extender-css-builder-button-wrap .button,
+body.genesis_page_genesis-extender-custom .genesis-extender-php-builder-button-wrap .button {
+	width: 98px;
+}
+
+body.genesis_page_genesis-extender-custom .select-all-images.button {
+	width: 120px;
+}
+
+body.genesis_page_genesis-extender-custom #custom-css-builder-nav-open-close-elements-box .button {
+	width: 29px;
+}
+
+body.genesis_page_genesis-extender-custom #custom-css-builder-nav-backgrounds-box .button,
+body.genesis_page_genesis-extender-custom #custom-css-builder-nav-borders-box .button,
+body.genesis_page_genesis-extender-custom #custom-css-builder-nav-margins-padding-box .button,
+body.genesis_page_genesis-extender-custom #custom-css-builder-nav-shadows-box .button {
+	width: 300px;
+	margin-bottom: 5px !important;
+	float: left !important;
+}
+
+body.genesis_page_genesis-extender-custom #custom-css-builder-nav-fonts-box .button,
+body.genesis_page_genesis-extender-custom #custom-css-builder-nav-dimensions-position-box .button {
+	width: 145px;
+	float: left !important;
+}
+
+.ui-multiselect input.ui-state-default {
+	width: 250px !important;
+	padding: 4px 0 4px 6px;
+}
+	
+.upload-button {
+	width: 200px;
+	margin: 0 auto!important;
+	float: none !important;
+}
+	
+.okbutton,
+.cancelbutton.button,
+.inputbutton.button {
+	width: 100px;
+}
+	
+.inputbutton.button {
+	float: left !important;
+}
+
+.imagecontainer {
+	width: 379px !important;
+}
+
+/*The below styles how the thumbnails will look when listed*/
+.thumbnaildiv {
+ 	width: 120px !important;
+ 	float: left !important;
+ 	position: relative !important;
+ }
+
+.thumbnail {
+ 	border: 1px solid #DFDFDF !important;
+ 	margin: 10px !important;
+ }
+
+/*The below styles how the text associated with each image will look when listed*/
+.imagetext {
+	font-size: 14px !important;
+	color: #333 !important;
+	width: 250px !important;
+	padding: 10px 0 5px !important;
+	position: relative !important;
+	margin-left: 120px !important;
+}
+
+.imageinfo {
+	background-image: url(images/information.png) !important;
+	background-repeat: no-repeat !important;
+	margin-left: 10px !important;
+	padding-left: 25px !important;
+	margin-top: 0 !important;
+	margin-bottom: 5px !important;
+}
+
+.imagedetails {
+	background-image: url(images/image.png) !important;
+	background-repeat: no-repeat !important;
+	margin-left: 10px !important;
+	padding-left: 25px !important;
+	margin-top: 0 !important;
+	margin-bottom: 5px !important;
+}
+
+.imagesize {
+	background-image: url(images/disk.png) !important;
+	background-repeat: no-repeat !important;
+	margin-left: 10px !important;
+	padding-left: 25px !important;
+	padding-bottom: 5px !important;
+	margin-top: 0 !important;
+	margin-bottom: 5px !important;
+}
+
+.imagelink {
+	background-image: url(images/link.png) !important;
+	background-repeat: no-repeat !important;
+	margin-left: 10px !important;
+	padding-left: 25px !important;
+	min-height: 47px !important;
+	margin-top: 0 !important;
+	margin-bottom: 5px !important;
+	overflow: hidden;
+}
+
+.imagelink a:link, .imagelink a:visited {
+	color: #3A639A !important;
+	text-decoration: none !important;
+}
+
+/*The below styles the look of the screen blackout when the delete button is pressed*/	
+.blackout{
+	position: fixed !important;
+	z-index: 101 !important;
+	background-color: #000000 !important;
+	filter:alpha(opacity=80) !important;
+	-moz-opacity: 0.8 !important;
+	opacity: 0.8 !important;
+	top: 0 !important; 
+	right: 0 !important; 
+	bottom: 0 !important; 
+	left: 0 !important;
+	width: 100% !important;
+	text-align: center !important;
+	line-height: 0 !important;	
+	height: 100% !important;
+	min-height: 100% !important;
+}
+
+/*The below styles how the box in the middle of the blackout screen will look*/
+.box {
+	color: #000000 !important;
+	margin-top: 100px !important;
+	text-align: center !important;
+	background-color: #ffffff !important;
+	max-width: 450px !important;
+	left: 0 !important;
+	line-height: 0 !important;	
+	margin-left: auto !important;
+	margin-right: auto !important;
+	background: #FFFFFF !important;
+	border: 1px solid #E8E8E8 !important;
+	padding: 10px !important;
+}
+
+.box-inner {
+	background: #F4F4F4 url(images/genesis-extender-admin-bg-box-bg.png) repeat-x !important;
+	border: 1px solid #DFDFDF;
+	padding: 0 10px;
+}
+
+/*The below styles how the text at the of the box in the middle of the blackout screen will look*/
+.boxheader {
+	font-size: 18px !important;
+	font-weight: bold !important;
+	display: block !important;
+	padding-bottom: 10px !important;
+}
+
+/*The below styles how the text in the box in the middle of the blackout screen will look*/
+.boxtext {
+	font-size: 14px !important;
+	color: #000000 !important;
+	line-height: 100% !important;
+	padding-top: 15px !important;
+}
+
+.boxtext a:link, .boxtext a:visited{
+	text-decoration: none !important;
+}
+
+/*The below styles how the thumbnail in the box in the middle of the blackout screen will look*/
+.boxthumbnail {
+	border: 1px solid #AAAAAA !important;
+	margin-top: 20px !important;
+	margin-bottom: 20px !important;
+}
+
+#incompatible-browser-message {
+	background: #EEEEEE;
+	border: 1px solid #CCCCCC;
+	margin: 20px 0 15px;
+	padding: 15px;
+	color: #FC0000;
+	font-size: 15px;
+	font-style: italic;
+	text-align: center;
+	line-height: 1.5;
+	clear: both;
+	-webkit-box-shadow: inset 0 0 2px 2px #DDDDDD;
+	box-shadow: inset 0 0 2px 2px #DDDDDD;
+}
+
+@media only screen and (max-width: 1023px) {
+	#genesis-extender-floating-save {
+		left: 600px;
+	}
+	.genesis-extender-css-builder-button-wrap,
+	.genesis-extender-php-builder-button-wrap {
+		display: none;
+	}
+}
+
+@media only screen and (max-width: 782px) {
+	#genesis-extender-floating-save {
+		left:	0;
+		margin: 0;
+		position: relative;
+		float: left;
+	}
+	#genesis-extender-theme-settings-nav li a,
+	#genesis-extender-theme-settings-nav li a:link,
+	#genesis-extender-theme-settings-nav li a:visited {
+		padding: 2px 54px;
+	}
+	#genesis-extender-custom-options-nav li a:link,
+	#genesis-extender-custom-options-nav li a:visited {
+		padding: 2px 12px;
+	}
+	.genesis-extender-optionbox-2col-left-wrap,
+	.genesis-extender-optionbox-2col-right-wrap,
+	.genesis-extender-import-export-checkboxes-wrap,
+	.genesis-extender-import-export-action-fields,
+	.genesis-extender-custom-template-option input[type="text"],
+	.genesis-extender-custom-template-option select,
+	.genesis-extender-custom-label-option input[type="text"],
+	.genesis-extender-custom-conditional-option input[type="text"],
+	.genesis-extender-custom-conditional-option select,
+	.genesis-extender-custom-widget-option input[type="text"],
+	.genesis-extender-custom-widget-option select,
+	.genesis-extender-custom-hook-option input[type="text"],
+	.genesis-extender-custom-hook-option select,
+	.ui-multiselect,
+	.custom-option-title-text {
+		width: 100% !important;
+		margin: 5px 0;
+		display: block;
+	}
+	.genesis-extender-responsive-options-box-wrap {
+		padding: 10px;
+	}
+	.responsive-nav-group {
+		max-width: 456px;
+	}
+	.responsive-icon {
+		width: 61px;
+		height: 22px;
+		margin: 0 0 15px 15px;
+	}
+	.responsive-icon:hover {
+		background-position: 0 -22px !important;
+	}
+	.responsive-hover {
+		background-position: 0 -22px !important;
+	}
+	#query-1, #query-2, #query-3, #query-4, #query-5, #query-6 {
+		background-size: 61px 44px;
+	}
+	.wp-admin .genesis-extender-custom-widget-option p label,
+	.wp-admin .genesis-extender-custom-hook-option p label {
+		overflow: hidden;
+	}
+	.custom-search {
+		margin-bottom: 5px;
+	}
+	.genesis-extender-custom-fonts-box {
+		width: 80%;
+	}
+	.ui-multiselect input.ui-state-default {
+		width: 94% !important;
+		margin: 0 !important;
+	}
+	.ui-multiselect-checkboxes li {
+		font-size: 18px !important;
+	}
+}
